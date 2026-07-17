@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "quickbase-ias",
+  "owner": { "name": "Henry Hurd", "email": "hhurd@quickbase.com" },
+  "version": "1.0.0",
+  "description": "Quickbase Internal AI Skills, synced from Confluence IAS",
+  "plugins": []
+}
